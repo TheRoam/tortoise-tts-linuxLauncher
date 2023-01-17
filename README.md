@@ -4,6 +4,8 @@
 
 *(Note that languages different to English require NEW training in such language to work properly)*
 
+*-Added **INSTALL.md** for further installation details.*
+
 **Original README continues...**
 
 # TorToiSe
