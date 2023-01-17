@@ -26,10 +26,10 @@ echo "  SHOWING VOICES FOLDER:"
 ls $fl
 
 echo "  SELECT VOICE:"
-read -e -i "ultron" vo
+read -e -i "ultron-en" vo
 
 echo "  SEED:"
-read -e -i 17 sd
+read -e -i 7 sd
 
 echo "  RUNNING TEXT TO SPEECH GENERATION BY NEONBJB FOR '"$p"' IN "$of" FILE WITH "$vo" VOICE USING SEED "$sd
 
