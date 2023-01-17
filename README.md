@@ -1,3 +1,11 @@
+*-Added **TTS.sh** script as a simple terminal launcher.*
+
+*-Added **ultron-es** and **ultron-en** voice samples for testing.*
+
+*(Note that languages different to English require NEW training in such language to work properly)*
+
+**Original README continues...**
+
 # TorToiSe
 
 Tortoise is a text-to-speech program built with the following priorities:
